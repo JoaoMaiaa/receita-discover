@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Roboto', sans-serif; 
+}
+
+body{
+    background-color:#EAEAEA!important;
+}
+
+.bg-waffle{
+    background-color:#FFFFFF!important;
+}
+
+.title-color{
+    color:#1B1B1B!important;
+}
+
+.text-color{
+    color:#39393A!important;
+}
+
+.f-weight-4{
+    font-weight:400!important;
+}
+
+.f-weight-7{
+    font-weight:700!important;
+}
+
+.list-style li{
+    list-style:disc;
+}
+
+.img{
+    background-image: url('../images/food-g32600e623_1920.jpg');
+    border-radius:10px;
+    height:300px!important;
+    min-width:200px;
+    background-position: center!important;
+    background-size: cover !important;
+    /* background-color:black; */
+}
+
+footer{
+    color:#8F8F8F!important;
+}
